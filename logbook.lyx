@@ -1,0 +1,136 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass extbook
+\use_default_options true
+\begin_modules
+pdfcomment
+\end_modules
+\maintain_unincluded_children false
+\language bahasa
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing onehalf
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize a4paper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation 2cm
+\quotes_language swedish
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\bullet 0 0 0 -1
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Enumerate
+Setup repository GitHub.
+ Dikasih nama 
+\begin_inset Quotes sld
+\end_inset
+
+bacaan
+\begin_inset Quotes srd
+\end_inset
+
+, karena niatnya untuk merekam komentar dari bahan bacaan yang sudah dikumpulkan.
+\end_layout
+
+\begin_layout Enumerate
+Mulai buat dokumen LyX pertama.
+ Setting dokumen sebagai class Book.
+ Setting yang lain masih banyak yang dibiarkan default.
+\end_layout
+
+\begin_layout Enumerate
+Workflow masih belum fixed.
+ Sambil dimulai, sambil belajar mencari 
+\emph on
+best practice
+\emph default
+.
+\end_layout
+
+\begin_layout Enumerate
+Pertanyaan awal yang muncul: Bagaimana mengumpulkan daftar Bibliografi yang
+ tersinkron dengan Mendeley? Bagaimana daftar Bibliografi di repository
+ 
+\begin_inset Quotes sld
+\end_inset
+
+al-Khwarizmi
+\begin_inset Quotes srd
+\end_inset
+
+ bisa disinkronkan dengan repository 
+\begin_inset Quotes sld
+\end_inset
+
+bacaan
+\begin_inset Quotes srd
+\end_inset
+
+?
+\end_layout
+
+\end_body
+\end_document
